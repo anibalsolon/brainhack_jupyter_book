@@ -29,3 +29,5 @@ And where we aim to show that
 The Jupyter Book journey only begins… ✨🚀✨
 
 ---
+
+![Preprint Figure](static/preprint_figure.png)
