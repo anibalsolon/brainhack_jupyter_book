@@ -26,4 +26,6 @@ And where we aim to show that
 
 > "Brainhacks and similar formats are increasingly recognized as a new way of doing science that extends traditional academic settings. These events foster a new research culture that demands open science and celebrates diversity, unlocking opportunities for scientific progress."
  
-The Jupyter Book journey only begins… 
+The Jupyter Book journey only begins… ✨🚀✨
+
+---
